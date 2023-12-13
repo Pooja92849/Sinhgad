@@ -5,6 +5,7 @@ public class demo1 {
 		int a;
 		String b="aaaa";
 		string c="aakanksha";
+		String d="premraj & shubham"
 	}
 
 }
